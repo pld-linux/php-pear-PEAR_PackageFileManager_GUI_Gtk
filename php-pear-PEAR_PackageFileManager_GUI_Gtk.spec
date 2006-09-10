@@ -51,8 +51,8 @@ Mo¿liwo¶ci:
 - import ustawieñ z istniej±cych plików,
 - przeci±gnij-i-upu¶æ katalog do okna aplikacji celem wczytania
   informacji,
-- okre¶lanie informacji o pakiecie (nazwa, opis, i.t.p.),
-- okre¶lanie informacji o wydaniu (wersja, wydanie, i.t.p.),
+- okre¶lanie informacji o pakiecie (nazwa, opis, itp.),
+- okre¶lanie informacji o wydaniu (wersja, wydanie, itp.),
 - ³atwe dodawanie opiekunów,
 - przegl±danie plików w postaci drzewa oraz mo¿liwo¶æ dodania
   zale¿no¶ci przez klikniêcie,
