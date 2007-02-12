@@ -5,7 +5,7 @@
 %define		_pearname	PEAR_PackageFileManager_GUI_Gtk
 
 Summary:	%{_pearname} - A PHP-GTK frontend for the PEAR_PackageFileManager class
-Summary(pl):	%{_pearname} - Frontend PHP-GTK do klasy PEAR_PackageFileManager
+Summary(pl.UTF-8):   %{_pearname} - Frontend PHP-GTK do klasy PEAR_PackageFileManager
 Name:		php-pear-%{_pearname}
 Version:	1.0.1
 Release:	1
@@ -42,24 +42,24 @@ Features:
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Frontend PHP-GTK1 do klasy PEAR_PackageFileManager. U³atwia
-developerom tworzenie i opiekê nad plikami package.xml.
+%description -l pl.UTF-8
+Frontend PHP-GTK1 do klasy PEAR_PackageFileManager. UÅ‚atwia
+developerom tworzenie i opiekÄ™ nad plikami package.xml.
 
-Mo¿liwo¶ci:
-- aktualizacja istniej±cych lub tworzenie nowych plików package.xml,
-- import ustawieñ z istniej±cych plików,
-- przeci±gnij-i-upu¶æ katalog do okna aplikacji celem wczytania
+MoÅ¼liwoÅ›ci:
+- aktualizacja istniejÄ…cych lub tworzenie nowych plikÃ³w package.xml,
+- import ustawieÅ„ z istniejÄ…cych plikÃ³w,
+- przeciÄ…gnij-i-upuÅ›Ä‡ katalog do okna aplikacji celem wczytania
   informacji,
-- okre¶lanie informacji o pakiecie (nazwa, opis, itp.),
-- okre¶lanie informacji o wydaniu (wersja, wydanie, itp.),
-- ³atwe dodawanie opiekunów,
-- przegl±danie plików w postaci drzewa oraz mo¿liwo¶æ dodania
-  zale¿no¶ci przez klikniêcie,
-- dodawanie globalnych oraz lokalnych zast±pieñ w plikach na etapie
+- okreÅ›lanie informacji o pakiecie (nazwa, opis, itp.),
+- okreÅ›lanie informacji o wydaniu (wersja, wydanie, itp.),
+- Å‚atwe dodawanie opiekunÃ³w,
+- przeglÄ…danie plikÃ³w w postaci drzewa oraz moÅ¼liwoÅ›Ä‡ dodania
+  zaleÅ¼noÅ›ci przez klikniÄ™cie,
+- dodawanie globalnych oraz lokalnych zastÄ…pieÅ„ w plikach na etapie
   instalacji,
-- okno podgl±du pakietu,
-- tworzenie pakietu przy u¿yciu nowego pliku package.xml.
+- okno podglÄ…du pakietu,
+- tworzenie pakietu przy uÅ¼yciu nowego pliku package.xml.
 
 Ta klasa ma w PEAR status: %{_status}.
 
