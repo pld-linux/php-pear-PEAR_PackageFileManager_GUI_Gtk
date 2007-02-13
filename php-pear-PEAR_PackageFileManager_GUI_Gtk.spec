@@ -5,7 +5,7 @@
 %define		_pearname	PEAR_PackageFileManager_GUI_Gtk
 
 Summary:	%{_pearname} - A PHP-GTK frontend for the PEAR_PackageFileManager class
-Summary(pl.UTF-8):   %{_pearname} - Frontend PHP-GTK do klasy PEAR_PackageFileManager
+Summary(pl.UTF-8):	%{_pearname} - Frontend PHP-GTK do klasy PEAR_PackageFileManager
 Name:		php-pear-%{_pearname}
 Version:	1.0.1
 Release:	1
