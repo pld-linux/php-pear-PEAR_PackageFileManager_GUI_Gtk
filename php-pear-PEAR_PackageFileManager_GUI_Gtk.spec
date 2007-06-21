@@ -8,7 +8,7 @@ Summary:	%{_pearname} - A PHP-GTK frontend for the PEAR_PackageFileManager class
 Summary(pl.UTF-8):	%{_pearname} - Frontend PHP-GTK do klasy PEAR_PackageFileManager
 Name:		php-pear-%{_pearname}
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
@@ -78,4 +78,5 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc install.log docs/%{_pearname}/example.php
 %{php_pear_dir}/.registry/*.reg
+%dir %{php_pear_dir}/PEAR/PackageFileManager/GUI
 %{php_pear_dir}/PEAR/PackageFileManager/GUI/Gtk.php
